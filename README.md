@@ -1,5 +1,5 @@
-# DesktopMonitoringApplication
-DeMoApp
+# Desktop Monitoring Application
+
 
 A Desktop Monitoring Application
 
